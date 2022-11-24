@@ -1,0 +1,35 @@
+{
+  "name": "duitku",
+  "version": "0.0.6",
+  "description": "Duitku Node JS",
+  "main": "index.js",
+  "homepage": "https://www.duitku.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duitkupg/duitku-node.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "duitku",
+    "bca",
+    "payment",
+    "payment gateway",
+    "qris",
+    "rupiah",
+    "indonesia",
+    "pembayaran",
+    "gerbang pembayaran",
+    "transfer"
+  ],
+  "author": "mimamch",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "jest": "^28.1.2"
+  },
+  "devDependencies": {}
+}
