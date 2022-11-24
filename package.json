@@ -1,6 +1,6 @@
 {
   "name": "duitku-nodejs",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "Duitku Node JS",
   "main": "index.js",
   "homepage": "https://www.duitku.com",
