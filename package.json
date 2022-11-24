@@ -1,12 +1,12 @@
 {
-  "name": "duitku",
+  "name": "duitku-nodejs",
   "version": "0.0.6",
   "description": "Duitku Node JS",
   "main": "index.js",
   "homepage": "https://www.duitku.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duitkupg/duitku-node.git"
+    "url": "git+https://github.com/mimamch/duitku-nodejs.git"
   },
   "scripts": {
     "test": "jest"
